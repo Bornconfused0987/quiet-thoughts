@@ -6,7 +6,3 @@ My first HTML and CSS website!
 
 A cozy, lavender-themed personal website
 built using HTML and CSS.
-
-## Preview
-
-![About Me Page](Screenshots/about-me.png)
